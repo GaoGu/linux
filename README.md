@@ -1,2 +1,2 @@
 # Introduction
-linux 学习笔记
+linux和shell脚本入门分享
